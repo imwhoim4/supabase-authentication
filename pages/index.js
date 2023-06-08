@@ -51,7 +51,7 @@ const Index = () => {
               width="96"
             />
             <Typography.Title level={3}>
-              Welcome to Supabase Auth
+              Welcome to Auth
             </Typography.Title>
           </div>
           <Auth
